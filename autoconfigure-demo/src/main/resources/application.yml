@@ -1,0 +1,4 @@
+school:
+  enabled: true
+  name: ABC School
+  students-names: Tom
